@@ -21,7 +21,7 @@ This repository demonstrates how to integrate [POML](https://github.com/poml-lan
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/umianta/POML.git
    cd your-repo-name
    ```
 
