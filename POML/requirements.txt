@@ -1,0 +1,5 @@
+openai==0.28.0
+langchain-community
+python-dotenv
+beautifulsoup4
+--pre --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ poml
